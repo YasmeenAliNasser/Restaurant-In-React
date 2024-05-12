@@ -1,0 +1,248 @@
+ .numbers{
+    background-color: darkcyan;
+    padding: 25px 0px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    margin-top: 50px;
+ }
+ .pride{
+   padding: 25px 0px;
+   
+   max-width: 100%;
+   height: auto;
+    margin-top: 50px;
+   overflow: hidden;
+ }
+ .pride img{
+   max-width: 100%;
+ }
+ .pride h2{
+   font-size: 50px;
+   line-height: 60px;
+   font-weight: bold;
+   width: 100%;
+   
+ }
+ .pride p{
+   font-size: 30px;
+   color:darkcyan;
+   font-family: 'Courier New', Courier, monospace;
+}
+.pride button{
+   width: 100px;
+   height: 50px;
+   color: black;
+  
+   border: none;
+   background-color:darkcyan;
+  
+  
+
+}
+.pride button:hover{
+  
+   background-color:gainsboro;
+   color:black;
+}
+.ingred{
+  margin-top: 50px;
+  max-width: 100%;
+  height: auto;
+  text-align: left;
+  background-color:whitesmoke;
+}
+.ingred img{
+  position: left;
+  margin-top: auto;
+}
+.ingred h2{
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: bold;
+  width: 100%;
+  color: black;
+}
+.ingred p{
+  font-size: 30px;
+  color:black;
+  font-family: 'Courier New', Courier, monospace;
+}
+.ingred ul{
+  color:black;
+}
+.ingred button{
+  width: 100px;
+  height: 50px;
+  color: black;
+ 
+  border: none;
+  background-color:darkcyan;
+ 
+ 
+
+}
+.ingred button:hover{
+ 
+  background-color:gainsboro;
+  color:black;
+}
+.watch{
+  background: url("../../assets/food2.png") left no-repeat;
+  width: 100%;
+  background-size: cover;
+  height: 320px;
+  text-align: center;
+  padding: 30px 0px;
+  margin-top: 50px;
+}
+.watch h2{
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: bold;
+  width: 100%;
+  color:darkslategrey;
+}
+.watch p{
+  font-size: 30px;
+  color:black;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 50px;
+}
+ .watch a{
+  color: darkslategray;
+  font-size: 30px;
+  font-family: 'Tanjawal';
+  margin: 20px ;
+  text-decoration: none !important;
+ }
+ .sales{
+  margin-top: 50px;
+  padding: 25px 0px;
+  overflow: hidden;
+  width: 100%;
+  height: 900px;
+ }
+ .sales .row :first-child{
+  text-align: center;
+  margin: 25px 0px;
+
+ }
+ .sales h2{
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: bold;
+  width: 100%;
+  color:darkslategrey;
+}
+.sales p{
+  font-size: 30px;
+  color:black;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 50px;
+}
+.sales.box{
+  border: 1px solid white;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin-top: 10px;
+  border-radius: 5px;
+
+}
+.sales img{
+  max-width: 100%;
+
+}
+.sales h5{
+  color: darkslategrey;
+  font-family: 'Tanjawal';
+  font-size: 25px;
+  margin: 10px 0px;
+  margin-top: 40px;
+
+
+}
+.sales h7{
+  color: darkslategrey;
+  font-family: 'Tanjawal';
+  font-size: 20px;
+  margin: 10px 0px;
+}
+.sales h6{
+  color:black;
+  font-family: 'Tanjawal';
+  font-size: 20px;
+  margin: 10px 0px;
+}
+.sales button{
+  width: 100px;
+  height: 50px;
+  color: black;
+ 
+  border: none;
+  background-color:darkcyan;
+  text-decoration: none !important;
+ 
+}
+.sales button:hover{
+ 
+  background-color:gainsboro;
+  color:black;
+}
+.slider{
+  background-color: darkslategrey;
+  
+  
+}
+footer {
+  width: 100%;
+  height: auto;
+  margin-top: 100px;
+}
+.footer h2{
+  margin-top: 150px;
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: bold;
+  width: 100%;
+  color:darkslategrey;
+}
+.footer p{
+  font-size: 30px;
+  color:gray;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 50px;
+}
+.footer button{
+  width: 100px;
+  height: 50px;
+  color: black;
+ 
+  border: none;
+  background-color:darkcyan;
+  text-decoration: none !important;
+ 
+}
+.footer button:hover{
+ 
+  background-color:gainsboro;
+  color:black;
+}
+.footer input{
+  color: aliceblue;
+  border-radius:5px;
+  width: 400px;
+  height: 50px;
+}
+.footer h1{
+  margin-top: 200px;
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: bold;
+  width: 100%;
+  background-color: darkslategrey;
+}
